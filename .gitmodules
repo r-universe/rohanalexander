@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AustralianPoliticians"]
+	path = AustralianPoliticians
+	url = https://github.com/rohanalexander/australianpoliticians
+	shallow = true
+	registered = true
+[submodule "heapsofpapers"]
+	path = heapsofpapers
+	url = https://github.com/rohanalexander/heapsofpapers
+	shallow = true
+	registered = true
